@@ -1,6 +1,7 @@
-Name: 
+Name: Petter 
 Course: Intro to Terminal
 Year: 2026
 
 Tell us a bit about yourself:
+20 years old, from Oslo
 
